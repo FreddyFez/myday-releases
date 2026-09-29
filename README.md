@@ -1,11 +1,11 @@
-# Můj den / My day — Windows downloads
+# My day / Můj den — Windows downloads
 
-This repository is reserved for verified Windows installers, release notes and SHA-256 checksums. Application source is maintained separately in a private repository and is never mirrored here.
+[Download Windows x64 0.2.0](https://github.com/FreddyFez/myday-releases/releases/download/v0.2.0/My-day_0.2.0_windows-x64-setup.exe)
 
-**No public installer is available yet.** The current Windows candidate is still undergoing acceptance testing. Compilation alone does not verify installation, window controls, tray, reminders or autostart.
+[Release notes and SHA-256 checksum](https://github.com/FreddyFez/myday-releases/releases/tag/v0.2.0)
 
-Publication requires testing the exact candidate on installed Windows x64: clean installation/WebView2, update with data and session preserved, window/tray controls, autostart after Windows sign-in, notifications, and 125%/150% display scaling.
+The owner confirmed testing and approved public distribution on 29 September 2026. This Windows installer is unsigned; Windows may show an unknown-publisher warning. An account and internet connection are required for loading and saving data.
 
-Android debug APKs are not distributed here. Android production distribution requires device testing and a separate release/signing decision.
+This repository contains public release documentation and binaries only. Application source is maintained separately in a private repository.
 
-A public website download link will be available only after an approved installer is published as a Release asset. There is currently no public binary download URL.
+Android debug APKs are not distributed here. No public Android release is available.
